@@ -1,0 +1,20 @@
+[project]
+name = "workshop-3"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "kevinMG1601",email = "kevin.andres2636@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas (>=2.2.3,<3.0.0)",
+    "notebook (>=7.4.2,<8.0.0)",
+    "ipykernel (>=6.29.5,<7.0.0)",
+    "ace-tools (>=0.0,<0.1)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
