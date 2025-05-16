@@ -24,11 +24,26 @@ This project aims to train a regression model to predict the happiness score of 
 ## **PROJECT STRUCTURE**
 | Folder / File | Description |
 | ------------- |:-------------:|
-| Assets        | |
-| Data          | |
-| Docs          | |
-| Model         | |
-| Notebooks     | |
+| Assets/       | |
+| Data/         | |
+|├── output/    | |
+|├── raw/       | |
+| Docs/         | |
+| Kafka/        | |
+| Model/        | |
+| Notebooks/    | |
+|├── 01_eda.ipynb       | |
+|├── 02_training.ipynb  | |
+|├── 03_model.ipynb      | |
+| Utils/        | |
+|├── connection_db.py     | |
+|├── eda_functions.py     | |
+| .env          | |
+| Pyproject.toml   | |
+| README.md     | |
+
+
+
 
 ## **INSTALLATION AND SETUP**
 
