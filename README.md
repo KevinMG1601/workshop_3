@@ -58,13 +58,13 @@ The project uses multiple CSV files with worldwide happiness data extracted from
 
 
 ## **TECHNOLOGIES USED**
-* [Python 3.11.9](https://www.python.org/downloads/release/python-3119/).
-* [Jupyter Notebook](https://docs.jupyter.org/en/latest/).
-* [Scikit-learn](https://scikit-learn.org/0.21/install.html).
-* [Kafka](https://kafka.apache.org/documentation/).
-* [Docker](https://docs.docker.com/).
-* [MySQL](https://dev.mysql.com/downloads/installer/).
-* [Poetry](https://python-poetry.org/docs/).
+* [Python 3.11.9](https://www.python.org/downloads/release/python-3119/)
+* [Jupyter Notebook](https://docs.jupyter.org/en/latest/)
+* [Scikit-learn](https://scikit-learn.org/0.21/install.html)
+* [Kafka](https://kafka.apache.org/documentation/)
+* [Docker](https://docs.docker.com/)
+* [MySQL](https://dev.mysql.com/downloads/installer/)
+* [Poetry](https://python-poetry.org/docs/)
 
 
 ## **INSTALLATION AND SETUP**
